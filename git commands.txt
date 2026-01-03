@@ -1,3 +1,5 @@
 git init - инициализирует репозиторий git
 git checkout -- . - удаляет изменения до предыдущего коммита
-git reset . - удаляет файл из 
+git reset . - удаляет файл из Staged Changes зоны
+git reset --soft HEAD^1 - удаляет текущий коммит, сохраняет изменения в Staged Changes
+git reset --hard HEAD^1 - удаляет текущий коммит, удаляет изменения
