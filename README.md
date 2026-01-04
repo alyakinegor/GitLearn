@@ -26,3 +26,7 @@ print('Hello world!)
 
 картинка-ссылка
 [![img](./img/8914dde3f7492830f7003fa0e7840e87.jpg)](https://google.com)
+
+head|head|head
+:---|:--:|:---
+val |val|val
